@@ -1,0 +1,1 @@
+# selecting-Edit-Queries-from-the-Home-ribbon-in-Power-BI-Desktop
